@@ -1,0 +1,6 @@
+{
+  "name": "CPR Glove Telemetry",
+  "description": "Real-time hardware telemetry and clinical resuscitation coaching app for the Smart CPR Glove (ESP32, 3x FSR force sensors, and MPU6050 6-axis IMU) via Bluetooth BLE, Classic SerialBT, and Wi-Fi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

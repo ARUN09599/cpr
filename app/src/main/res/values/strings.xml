@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CPR Glove Telemetry</string>
+    <string name="nav_cockpit">Live CPR</string>
+    <string name="nav_sensors">3-FSR &amp; IMU</string>
+    <string name="nav_connect">ESP32 Link</string>
+    <string name="nav_firmware">Wiring &amp; Code</string>
+    <string name="nav_history">Debrief Logs</string>
+    <string name="hero_banner_desc">Smart CPR Glove Hardware Architecture Diagram with ESP32, MPU6050, and 3 FSR pads</string>
+    <string name="metronome_toggle_desc">Toggle 110 BPM AHA Resuscitation Metronome</string>
+    <string name="record_session_desc">Start or Stop Recording CPR Telemetry Session</string>
+    <string name="zero_calibrate_desc">Zero and Tare MPU6050 Gravity &amp; FSR Baseline</string>
+</resources>
